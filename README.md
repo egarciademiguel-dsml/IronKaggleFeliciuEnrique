@@ -1,0 +1,2 @@
+# The project target:
+Our primary focus is to understand which features most significantly impact the house price. Additionally, we aim to explore properties valued at $650K and above for more detailed insights.
